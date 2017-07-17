@@ -20,4 +20,5 @@ class Human extends Animal implements Thinkable {
     public void think(){
         Log.d("javatest" , "私は" + this.hobby + "について考える");
     }
+    
 }
